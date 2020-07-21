@@ -2,8 +2,6 @@ package cn.chennan.refactor.a.a.origin;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.concurrent.atomic.AtomicReference;
 
 /**
  * 顾客
